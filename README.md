@@ -10,4 +10,4 @@ BI_work_duty.py可以直接运行得到根据岗位职责推荐的岗位
 
 当前目录下的xlsx文件是运行程序后得到的结果文件
 
-data_house存放分析的数据
+datahouse存放源数据
